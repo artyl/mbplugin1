@@ -205,3 +205,7 @@ mts2.py - добавлена проверка при входе через МТ�
 
 ## mbplugin 1.00.02b (??.08.21) Playwright + linux
 
+## mbplugin 1.00.04b (??.08.21) Playwright + linux
+test autoupdate
+
+
